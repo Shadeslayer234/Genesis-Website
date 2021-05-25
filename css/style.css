@@ -398,6 +398,7 @@ code,pre{
 
 @media(max-width: 480px){
     .exhibit-text{
+        font-size: 0.9rem;
         padding: 1rem;
     }
 }

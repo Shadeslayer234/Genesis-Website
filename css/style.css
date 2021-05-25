@@ -326,7 +326,7 @@ code,pre{
 
 /* Tablet and Under */
 
-@media(max-width: 768px){
+@media(max-width: 940px){
     .grid, 
     .exhibit .grid, 
     .stats .grid,
@@ -393,7 +393,11 @@ code,pre{
         background: rgba(0, 0, 0, 0.1);
     }
 
+    
+}
+
+@media(max-width: 480px){
     .exhibit-text{
-        padding: 0.5rem;
+        padding: 1rem;
     }
 }
